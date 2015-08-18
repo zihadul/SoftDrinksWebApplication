@@ -1,0 +1,60 @@
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\SoftDrinksWebApplication.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\SoftDrinksWebApplication.pdb
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Antlr3.Runtime.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.AspNet.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.Core.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OAuth.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OpenId.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\EntityFramework.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\System.Web.Optimization.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\System.Web.Providers.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\WebGrease.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\EntityFramework.xml
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.Core.xml
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OAuth.xml
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OpenId.xml
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.AspNet.xml
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\obj\Debug\SoftDrinksWebApplication.csprojResolveAssemblyReference.cache
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\obj\Debug\SoftDrinksWebApplication.dll
+c:\users\rajon\documents\visual studio 2012\Projects\SoftDrinksWebApplication\SoftDrinksWebApplication\obj\Debug\SoftDrinksWebApplication.pdb
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\SoftDrinksWebApplication.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\SoftDrinksWebApplication.pdb
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Antlr3.Runtime.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\AspNet.ScriptManager.jQuery.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.AspNet.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.Core.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OAuth.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OpenId.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\EntityFramework.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\Microsoft.Web.Infrastructure.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\System.Web.Optimization.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\System.Web.Providers.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\WebGrease.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\EntityFramework.xml
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.Core.xml
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OAuth.xml
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OpenId.xml
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\bin\DotNetOpenAuth.AspNet.xml
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\obj\Debug\SoftDrinksWebApplication.csprojResolveAssemblyReference.cache
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\obj\Debug\SoftDrinksWebApplication.dll
+G:\Visual Studio Project\Full Project\SoftDrinksWebApplication\SoftDrinksWebApplication\obj\Debug\SoftDrinksWebApplication.pdb

@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageForCMD.master.cs" Inherits="SoftDrinksWebApplication.UI.MasterPageForCMD" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Soft Drinks Web</title>
+    <link href="../Styles/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="wrapper">
+        <div class="banner">
+        
+        </div>
+        <div class="navigation">
+            <ul class="nav">
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="#">Overview</a>
+                   <ul class="subbar">
+                       <li><a href="DrinksUI.aspx">Drinks</a></li>
+                       <li><a href="#">Drinks Shop</a></li>
+                       <li><a href="#">Drinks Brands</a></li>
+                   </ul>
+                    </li>
+                <li><a href="Shop.aspx">Shop</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="LogIn.aspx">Account</a></li>
+            </ul>
+            <div class="logIn">
+                <asp:Label ID="logInLabel" runat="server" Text="" ForeColor="yellow"></asp:Label><br />
+                <asp:LinkButton ID="logInLinkButton" runat="server" ForeColor="white" Text="LogIn" OnClick="logInLinkButton_Click" CausesValidation="False"></asp:LinkButton>&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;<asp:LinkButton ID="signUpLinkButton" runat="server" CausesValidation="False" ForeColor="white" OnClick="signUpLinkButton_Click">SignUp</asp:LinkButton>
+            </div>
+        </div>
+
+        <div class="contentcms">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+         </div>
+        <div class="footer">
+           <p><a href="Home.aspx">Home</a> | <a href="DrinksUI.aspx">Drinks</a> | <a href="#">About</a> | Developed by : Zihadul</p>
+        </div>
+        </div>
+        
+    </form>
+</body>
+</html>
