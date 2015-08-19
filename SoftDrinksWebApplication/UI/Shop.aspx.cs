@@ -102,5 +102,23 @@ namespace SoftDrinksWebApplication.UI
         {
             GenerateReview();
         }
+
+        protected void okButton_Click(object sender, EventArgs e)
+        {
+            List<Order> orderList = (List<Order>)Session["Orders"];
+            UserGateway.AddOrder(orderList);
+            Session["Orders"] = null;
+            resultLabel.Text = "Your order has been placed! Thank you for shopping.";
+            okButton.Visible = false;
+            cancelButton.Visible = false;
+        }
+
+        protected void cancelButton_Click(object sender, EventArgs e)
+        {
+            Session["Orders"] = null;
+            resultLabel.Visible=false;
+            okButton.Visible = false;
+            cancelButton.Visible = false;
+        }
     }
 }

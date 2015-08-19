@@ -44,5 +44,17 @@ namespace SoftDrinksWebApplication.DAL
             connection.Close();
             return exists;
         }
+        public static void AddOrder(List<Order> orderList) {
+            SqlConnection connection = new SqlConnection(connectionString);
+            connection.Open();
+            foreach (Order order in orderList)
+            {
+                string query = "INSERT INTO OrderTBL VALUES('" + order.Client + "','" + order.Product + "','" + order.Amount + "','" + order.Price + "','" + order.Date + "','" + order.OrderShipped + "')";
+                SqlCommand command = new SqlCommand(query, connection);
+                command.ExecuteNonQuery();
+            }
+            connection.Close();
+           
+        }
     }
 }

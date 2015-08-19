@@ -31,6 +31,7 @@
                 <asp:Label ID="logInLabel" runat="server" Text="" ForeColor="yellow"></asp:Label><br />
                 <asp:LinkButton ID="logInLinkButton" runat="server" ForeColor="white" Text="LogIn" OnClick="logInLinkButton_Click" CausesValidation="False"></asp:LinkButton>&nbsp;&nbsp;&nbsp;&nbsp;
                 &nbsp;&nbsp;&nbsp;&nbsp;<asp:LinkButton ID="signUpLinkButton" runat="server" CausesValidation="False" ForeColor="white" OnClick="signUpLinkButton_Click">SignUp</asp:LinkButton>
+                &nbsp;&nbsp;&nbsp;&nbsp;<asp:LinkButton ID="adminButton" runat="server" CausesValidation="False" ForeColor="#FFFF66" OnClick="adminButton_Click" Visible="False">Admin</asp:LinkButton>
             </div>
         </div>
 

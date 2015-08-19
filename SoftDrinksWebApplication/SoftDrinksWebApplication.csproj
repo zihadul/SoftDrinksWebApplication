@@ -133,6 +133,7 @@
     <Content Include="Images\soft3.jpg" />
     <Content Include="Styles\StyleSheet.css" />
     <Content Include="UI\AddDrinks.aspx" />
+    <Content Include="UI\Admin.aspx" />
     <Content Include="UI\DrinksOverview.aspx" />
     <Content Include="UI\DrinksUI.aspx" />
     <Content Include="UI\Home.aspx" />
@@ -155,6 +156,13 @@
     </Compile>
     <Compile Include="UI\AddDrinks.aspx.designer.cs">
       <DependentUpon>AddDrinks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
     </Compile>
     <Compile Include="UI\DrinksOverview.aspx.cs">
       <DependentUpon>DrinksOverview.aspx</DependentUpon>

@@ -12,6 +12,10 @@ namespace SoftDrinksWebApplication.UI
         protected void Page_Load(object sender, EventArgs e)
         {
             if (Session["logIn"] != null) {
+                if (Session["Type"].ToString() == "Administrator")
+                {
+                    adminButton.Visible = true;
+                }
                 logInLabel.Text = "Welcome " + Session["logIn"];
                 logInLinkButton.Text = "LogOut";
             }
@@ -25,6 +29,7 @@ namespace SoftDrinksWebApplication.UI
             {
                 logInLinkButton.Text = "LogIn";
                 Session.Clear();
+                adminButton.Visible = false;
                 Response.Redirect("Home.aspx");
             }
             else
@@ -36,6 +41,11 @@ namespace SoftDrinksWebApplication.UI
         protected void signUpLinkButton_Click(object sender, EventArgs e)
         {
             Response.Redirect("Registration.aspx");
+        }
+
+        protected void adminButton_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Admin.aspx");
         }
     }
 }
